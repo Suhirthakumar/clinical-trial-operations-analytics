@@ -1,0 +1,21 @@
+trial_id,phase,therapeutic_area,status
+TR001,Phase I,Oncology,Recruiting
+TR002,Phase III,Cardiology,Active
+TR003,Phase II,Oncology,Recruiting
+TR004,Phase I,Respiratory,Completed
+TR005,Phase I,Oncology,Active
+TR006,Phase II,Cardiology,Recruiting
+TR007,Phase I,Respiratory,Active
+TR008,Phase IV,Cardiology,Completed
+TR009,Phase III,Oncology,Active
+TR010,Phase IV,Neurology,Completed
+TR011,Phase II,Cardiology,Completed
+TR012,Phase I,Oncology,Completed
+TR013,Phase I,Neurology,Completed
+TR014,Phase III,Oncology,Recruiting
+TR015,Phase IV,Respiratory,Active
+TR016,Phase IV,Oncology,Recruiting
+TR017,Phase III,Respiratory,Completed
+TR018,Phase II,Oncology,Active
+TR019,Phase II,Neurology,Active
+TR020,Phase II,Oncology,Completed

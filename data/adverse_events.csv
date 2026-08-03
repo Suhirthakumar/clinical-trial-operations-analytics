@@ -1,0 +1,301 @@
+event_id,patient_id,event_type,severity
+AE00001,P00399,Nausea,Severe
+AE00002,P00197,Allergic Reaction,Mild
+AE00003,P00310,Headache,Serious
+AE00004,P00486,Nausea,Severe
+AE00005,P00228,Infection,Moderate
+AE00006,P00272,Nausea,Serious
+AE00007,P00161,Nausea,Moderate
+AE00008,P00492,Infection,Mild
+AE00009,P00377,Headache,Serious
+AE00010,P00266,Fatigue,Mild
+AE00011,P00135,Nausea,Serious
+AE00012,P00110,Allergic Reaction,Severe
+AE00013,P00356,Fatigue,Moderate
+AE00014,P00063,Headache,Mild
+AE00015,P00232,Headache,Serious
+AE00016,P00045,Nausea,Severe
+AE00017,P00364,Infection,Severe
+AE00018,P00457,Nausea,Moderate
+AE00019,P00365,Headache,Severe
+AE00020,P00261,Headache,Mild
+AE00021,P00103,Headache,Moderate
+AE00022,P00405,Fatigue,Mild
+AE00023,P00185,Allergic Reaction,Severe
+AE00024,P00240,Allergic Reaction,Moderate
+AE00025,P00314,Infection,Mild
+AE00026,P00159,Fatigue,Serious
+AE00027,P00270,Fatigue,Serious
+AE00028,P00422,Allergic Reaction,Mild
+AE00029,P00065,Nausea,Mild
+AE00030,P00231,Fatigue,Severe
+AE00031,P00066,Allergic Reaction,Moderate
+AE00032,P00394,Headache,Serious
+AE00033,P00258,Infection,Mild
+AE00034,P00266,Headache,Severe
+AE00035,P00085,Headache,Severe
+AE00036,P00479,Headache,Severe
+AE00037,P00486,Allergic Reaction,Severe
+AE00038,P00434,Infection,Severe
+AE00039,P00101,Allergic Reaction,Severe
+AE00040,P00065,Nausea,Mild
+AE00041,P00258,Headache,Moderate
+AE00042,P00088,Allergic Reaction,Severe
+AE00043,P00432,Allergic Reaction,Mild
+AE00044,P00423,Infection,Mild
+AE00045,P00024,Allergic Reaction,Severe
+AE00046,P00334,Headache,Serious
+AE00047,P00317,Infection,Serious
+AE00048,P00456,Allergic Reaction,Severe
+AE00049,P00329,Nausea,Serious
+AE00050,P00126,Fatigue,Severe
+AE00051,P00233,Infection,Mild
+AE00052,P00081,Fatigue,Serious
+AE00053,P00248,Fatigue,Moderate
+AE00054,P00175,Allergic Reaction,Moderate
+AE00055,P00161,Nausea,Severe
+AE00056,P00500,Fatigue,Moderate
+AE00057,P00390,Nausea,Mild
+AE00058,P00164,Headache,Serious
+AE00059,P00063,Nausea,Serious
+AE00060,P00127,Headache,Mild
+AE00061,P00026,Nausea,Serious
+AE00062,P00443,Allergic Reaction,Serious
+AE00063,P00128,Headache,Severe
+AE00064,P00479,Allergic Reaction,Severe
+AE00065,P00098,Headache,Serious
+AE00066,P00264,Fatigue,Serious
+AE00067,P00451,Nausea,Serious
+AE00068,P00012,Infection,Serious
+AE00069,P00259,Fatigue,Moderate
+AE00070,P00111,Allergic Reaction,Severe
+AE00071,P00025,Infection,Severe
+AE00072,P00254,Allergic Reaction,Serious
+AE00073,P00147,Allergic Reaction,Mild
+AE00074,P00434,Infection,Serious
+AE00075,P00069,Nausea,Severe
+AE00076,P00392,Fatigue,Severe
+AE00077,P00024,Fatigue,Mild
+AE00078,P00292,Allergic Reaction,Moderate
+AE00079,P00186,Allergic Reaction,Severe
+AE00080,P00038,Fatigue,Serious
+AE00081,P00392,Allergic Reaction,Severe
+AE00082,P00423,Allergic Reaction,Mild
+AE00083,P00066,Infection,Serious
+AE00084,P00192,Nausea,Severe
+AE00085,P00387,Headache,Moderate
+AE00086,P00309,Allergic Reaction,Serious
+AE00087,P00257,Infection,Mild
+AE00088,P00020,Headache,Severe
+AE00089,P00412,Fatigue,Serious
+AE00090,P00077,Allergic Reaction,Moderate
+AE00091,P00168,Allergic Reaction,Severe
+AE00092,P00084,Fatigue,Severe
+AE00093,P00304,Nausea,Serious
+AE00094,P00363,Allergic Reaction,Severe
+AE00095,P00244,Infection,Severe
+AE00096,P00170,Infection,Serious
+AE00097,P00299,Nausea,Mild
+AE00098,P00306,Fatigue,Severe
+AE00099,P00496,Allergic Reaction,Moderate
+AE00100,P00370,Infection,Serious
+AE00101,P00088,Allergic Reaction,Serious
+AE00102,P00076,Headache,Mild
+AE00103,P00294,Infection,Moderate
+AE00104,P00010,Fatigue,Severe
+AE00105,P00215,Headache,Serious
+AE00106,P00354,Headache,Serious
+AE00107,P00257,Allergic Reaction,Serious
+AE00108,P00447,Infection,Moderate
+AE00109,P00266,Headache,Severe
+AE00110,P00340,Fatigue,Serious
+AE00111,P00161,Headache,Serious
+AE00112,P00468,Allergic Reaction,Severe
+AE00113,P00280,Nausea,Severe
+AE00114,P00313,Fatigue,Moderate
+AE00115,P00491,Headache,Severe
+AE00116,P00286,Nausea,Moderate
+AE00117,P00483,Nausea,Severe
+AE00118,P00361,Headache,Serious
+AE00119,P00163,Fatigue,Severe
+AE00120,P00287,Nausea,Severe
+AE00121,P00063,Allergic Reaction,Serious
+AE00122,P00459,Fatigue,Severe
+AE00123,P00489,Headache,Severe
+AE00124,P00022,Nausea,Mild
+AE00125,P00178,Fatigue,Severe
+AE00126,P00383,Fatigue,Moderate
+AE00127,P00104,Allergic Reaction,Severe
+AE00128,P00478,Allergic Reaction,Severe
+AE00129,P00071,Infection,Moderate
+AE00130,P00125,Infection,Moderate
+AE00131,P00327,Headache,Mild
+AE00132,P00052,Fatigue,Severe
+AE00133,P00368,Fatigue,Mild
+AE00134,P00349,Headache,Mild
+AE00135,P00494,Allergic Reaction,Moderate
+AE00136,P00209,Fatigue,Serious
+AE00137,P00334,Headache,Severe
+AE00138,P00165,Nausea,Mild
+AE00139,P00465,Infection,Moderate
+AE00140,P00274,Infection,Moderate
+AE00141,P00214,Headache,Mild
+AE00142,P00429,Fatigue,Serious
+AE00143,P00096,Nausea,Mild
+AE00144,P00005,Nausea,Mild
+AE00145,P00476,Nausea,Severe
+AE00146,P00233,Allergic Reaction,Serious
+AE00147,P00456,Headache,Serious
+AE00148,P00140,Headache,Mild
+AE00149,P00170,Headache,Serious
+AE00150,P00332,Nausea,Moderate
+AE00151,P00008,Nausea,Severe
+AE00152,P00291,Headache,Moderate
+AE00153,P00313,Fatigue,Serious
+AE00154,P00264,Nausea,Mild
+AE00155,P00206,Infection,Moderate
+AE00156,P00072,Fatigue,Severe
+AE00157,P00480,Headache,Mild
+AE00158,P00134,Fatigue,Moderate
+AE00159,P00229,Nausea,Severe
+AE00160,P00155,Allergic Reaction,Mild
+AE00161,P00134,Nausea,Moderate
+AE00162,P00032,Infection,Serious
+AE00163,P00158,Headache,Serious
+AE00164,P00352,Allergic Reaction,Severe
+AE00165,P00354,Infection,Severe
+AE00166,P00189,Allergic Reaction,Moderate
+AE00167,P00113,Headache,Serious
+AE00168,P00079,Fatigue,Severe
+AE00169,P00213,Allergic Reaction,Serious
+AE00170,P00388,Allergic Reaction,Moderate
+AE00171,P00391,Headache,Mild
+AE00172,P00270,Fatigue,Severe
+AE00173,P00040,Allergic Reaction,Mild
+AE00174,P00032,Allergic Reaction,Moderate
+AE00175,P00294,Allergic Reaction,Moderate
+AE00176,P00085,Nausea,Serious
+AE00177,P00060,Headache,Serious
+AE00178,P00047,Allergic Reaction,Serious
+AE00179,P00415,Infection,Serious
+AE00180,P00068,Allergic Reaction,Serious
+AE00181,P00234,Allergic Reaction,Mild
+AE00182,P00287,Fatigue,Severe
+AE00183,P00371,Infection,Serious
+AE00184,P00131,Infection,Moderate
+AE00185,P00297,Infection,Mild
+AE00186,P00217,Nausea,Mild
+AE00187,P00278,Infection,Mild
+AE00188,P00479,Fatigue,Mild
+AE00189,P00147,Fatigue,Moderate
+AE00190,P00394,Headache,Serious
+AE00191,P00192,Fatigue,Serious
+AE00192,P00446,Fatigue,Serious
+AE00193,P00042,Allergic Reaction,Moderate
+AE00194,P00335,Nausea,Mild
+AE00195,P00092,Allergic Reaction,Serious
+AE00196,P00271,Headache,Moderate
+AE00197,P00428,Infection,Mild
+AE00198,P00153,Fatigue,Serious
+AE00199,P00273,Fatigue,Moderate
+AE00200,P00127,Fatigue,Severe
+AE00201,P00080,Nausea,Moderate
+AE00202,P00480,Infection,Mild
+AE00203,P00415,Fatigue,Mild
+AE00204,P00124,Headache,Mild
+AE00205,P00052,Allergic Reaction,Mild
+AE00206,P00229,Allergic Reaction,Mild
+AE00207,P00126,Infection,Serious
+AE00208,P00225,Headache,Moderate
+AE00209,P00387,Infection,Moderate
+AE00210,P00258,Nausea,Moderate
+AE00211,P00418,Allergic Reaction,Severe
+AE00212,P00296,Allergic Reaction,Severe
+AE00213,P00122,Nausea,Moderate
+AE00214,P00339,Allergic Reaction,Moderate
+AE00215,P00212,Nausea,Severe
+AE00216,P00032,Allergic Reaction,Moderate
+AE00217,P00321,Fatigue,Serious
+AE00218,P00025,Nausea,Serious
+AE00219,P00403,Allergic Reaction,Severe
+AE00220,P00357,Fatigue,Serious
+AE00221,P00077,Nausea,Serious
+AE00222,P00095,Allergic Reaction,Serious
+AE00223,P00124,Headache,Severe
+AE00224,P00440,Headache,Serious
+AE00225,P00469,Infection,Serious
+AE00226,P00496,Fatigue,Moderate
+AE00227,P00199,Headache,Severe
+AE00228,P00105,Nausea,Mild
+AE00229,P00473,Fatigue,Severe
+AE00230,P00048,Allergic Reaction,Moderate
+AE00231,P00027,Nausea,Serious
+AE00232,P00345,Allergic Reaction,Mild
+AE00233,P00448,Infection,Moderate
+AE00234,P00412,Allergic Reaction,Moderate
+AE00235,P00246,Headache,Severe
+AE00236,P00156,Infection,Moderate
+AE00237,P00480,Headache,Mild
+AE00238,P00383,Fatigue,Moderate
+AE00239,P00357,Allergic Reaction,Moderate
+AE00240,P00204,Headache,Severe
+AE00241,P00398,Nausea,Serious
+AE00242,P00239,Allergic Reaction,Severe
+AE00243,P00158,Nausea,Severe
+AE00244,P00263,Fatigue,Serious
+AE00245,P00051,Fatigue,Severe
+AE00246,P00469,Headache,Severe
+AE00247,P00161,Fatigue,Mild
+AE00248,P00289,Headache,Moderate
+AE00249,P00009,Nausea,Serious
+AE00250,P00152,Headache,Moderate
+AE00251,P00169,Headache,Serious
+AE00252,P00292,Headache,Serious
+AE00253,P00282,Nausea,Severe
+AE00254,P00391,Fatigue,Serious
+AE00255,P00236,Headache,Severe
+AE00256,P00087,Headache,Serious
+AE00257,P00095,Allergic Reaction,Mild
+AE00258,P00269,Infection,Mild
+AE00259,P00484,Infection,Mild
+AE00260,P00212,Headache,Moderate
+AE00261,P00035,Headache,Mild
+AE00262,P00112,Allergic Reaction,Serious
+AE00263,P00192,Infection,Serious
+AE00264,P00338,Fatigue,Mild
+AE00265,P00004,Allergic Reaction,Serious
+AE00266,P00007,Infection,Severe
+AE00267,P00275,Nausea,Mild
+AE00268,P00258,Fatigue,Moderate
+AE00269,P00055,Infection,Moderate
+AE00270,P00124,Headache,Severe
+AE00271,P00418,Nausea,Severe
+AE00272,P00408,Fatigue,Mild
+AE00273,P00192,Fatigue,Serious
+AE00274,P00290,Headache,Moderate
+AE00275,P00154,Infection,Mild
+AE00276,P00048,Fatigue,Serious
+AE00277,P00194,Allergic Reaction,Serious
+AE00278,P00029,Infection,Moderate
+AE00279,P00043,Fatigue,Serious
+AE00280,P00331,Nausea,Mild
+AE00281,P00459,Allergic Reaction,Mild
+AE00282,P00118,Headache,Serious
+AE00283,P00139,Infection,Mild
+AE00284,P00351,Nausea,Mild
+AE00285,P00092,Nausea,Mild
+AE00286,P00493,Headache,Moderate
+AE00287,P00386,Fatigue,Mild
+AE00288,P00154,Headache,Moderate
+AE00289,P00291,Fatigue,Severe
+AE00290,P00197,Headache,Mild
+AE00291,P00257,Nausea,Mild
+AE00292,P00051,Fatigue,Moderate
+AE00293,P00430,Infection,Severe
+AE00294,P00310,Allergic Reaction,Serious
+AE00295,P00497,Nausea,Mild
+AE00296,P00325,Nausea,Serious
+AE00297,P00252,Headache,Severe
+AE00298,P00284,Fatigue,Serious
+AE00299,P00096,Allergic Reaction,Serious
+AE00300,P00044,Allergic Reaction,Severe
