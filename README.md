@@ -215,7 +215,7 @@ Future improvements include:
 
 # 👨‍🔬 Author
 
-**Kumar Puvan**
+**Dr Suhirthakumar Puvanendran**
 
 Bioinformatician | AI Researcher | Clinical Informatics Analyst | Lecturer
 
