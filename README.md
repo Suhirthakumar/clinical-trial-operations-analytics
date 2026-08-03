@@ -1,5 +1,11 @@
 # 🧬 Clinical Trial Operations Analytics Platform
 
+## 📸 Dashboard Preview
+
+![Clinical Trial Dashboard](screenshots/dashboard.png)
+
+
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Database](https://img.shields.io/badge/Database-SQLite-orange)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-red)
